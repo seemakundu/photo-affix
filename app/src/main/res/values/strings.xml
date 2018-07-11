@@ -19,7 +19,7 @@
     <string name="edit_with">Edit With…</string>
     <string name="share_using">Share Using…</string>
     <string name="delete">Delete</string>
-    <string name="confirm_delete">Delete this photo?</string>
+    <string name="confirm_delete">Delete this photo?Are You Sure?</string>
     <string name="yes">Yes</string>
     <string name="deleting">Deleting…</string>
     <string name="background_fill_color">Background fill</string>
